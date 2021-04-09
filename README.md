@@ -38,10 +38,10 @@ Create a deascion tree model that will help predict wether or not the borrower w
    4. Data description and statistical summary
 ## 2. Data Analysis Exploration (EDA)
 ## 3. Setting up the data for machine learning
-      * Categorical features engineering
-      * Data train test split
-      * Model train
-                * Decision tree model
-                * Random forest model
+   1. Categorical features engineering
+   2. Data train test split
+   3. Model train
+         1. Decision tree model
+         2. Random forest model
 ## 4. Model predection
 ## 5. Model evaluations
