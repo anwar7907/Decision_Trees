@@ -31,17 +31,17 @@ Which borrower have high probability of paying back the loan in full?
 Create a deascion tree model that will help predict wether or not the borrower will pay back the loan in full.
 
 # Summary of the solution:
-1. Data overview:
+## 1. Data overview:
       * Data type
       * Number of columns
       * Numbers of rows
       * Data description and statiscal summary
-2. Data Analysis Exploration (EDA)
-3. Setting up the data for machine learning
+## 2. Data Analysis Exploration (EDA)
+## 3. Setting up the data for machine learning
       * Categorical features engineering
       * Data train test split
       * Model train
-            * Decision tree model
-            * Random forest model
-4. Model predection
-5. Model evaluations
+                * Decision tree model
+                * Random forest model
+## 4. Model predection
+## 5. Model evaluations
