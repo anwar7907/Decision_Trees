@@ -41,7 +41,7 @@ Create a deascion tree model that will help predict wether or not the borrower w
   1. Categorical features engineering
   2. Data train test split
   3. Model train
-    1. Decision tree model
-    2. Random forest model
+       1. Decision tree model
+       2. Random forest model
   4. Model predection
   5. Model evaluations
