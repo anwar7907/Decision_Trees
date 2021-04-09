@@ -32,16 +32,16 @@ Create a deascion tree model that will help predict wether or not the borrower w
 
 # Summary of the solution:
 1. Data overview:
-  * Data type
-  * Number of columns
-  * Numbers of rows
-  * Data description and statiscal summary
+      * Data type
+      * Number of columns
+      * Numbers of rows
+      * Data description and statiscal summary
 2. Data Analysis Exploration (EDA)
 3. Setting up the data for machine learning
-  1. Categorical features engineering
-  2. Data train test split
-  3. Model train
-       1. Decision tree model
-       2. Random forest model
-  4. Model predection
-  5. Model evaluations
+      * Categorical features engineering
+      * Data train test split
+      * Model train
+            * Decision tree model
+            * Random forest model
+4. Model predection
+5. Model evaluations
