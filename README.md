@@ -32,10 +32,10 @@ Create a deascion tree model that will help predict wether or not the borrower w
 
 # Summary of the solution:
 ## 1. Data overview:
-      * Data type
-      * Number of columns
-      * Numbers of rows
-      * Data description and statistical summary
+   1. Data type
+   2. Number of columns
+   3. Numbers of rows
+   4. Data description and statistical summary
 ## 2. Data Analysis Exploration (EDA)
 ## 3. Setting up the data for machine learning
       * Categorical features engineering
