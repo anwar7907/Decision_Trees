@@ -37,11 +37,22 @@ Create a deascion tree model that will help predict wether or not the borrower w
    3. Numbers of rows
    4. Data description and statistical summary
 ## 2. Data Analysis Exploration (EDA)
+   1. Fico distribution for each credit policy
+   2. Fico distribution for Not_fully_paid column
+   3. Counts of loans for each purpose hued with not.fully.paid 
+   4. Trend chart between Fico score and interest rate
+   5. Trend Chart between Fico score and interest rate for not.fully.paid loans and credit policy. 
 ## 3. Setting up the data for machine learning
    1. Categorical features engineering
+       * Transfer purpose column to multiple categorical columns using dummy variables
    2. Data train test split
+       * Sklearn.cross_validation
    3. Model train
          1. Decision tree model
+                * DecisionTreeClassifier
          2. Random forest model
+                * RandomForestClassifier
 ## 4. Model predection
 ## 5. Model evaluations
+   * Classification_report
+   * Confusion_matrix
