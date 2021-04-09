@@ -49,7 +49,7 @@ Create a deascion tree model that will help predict wether or not the borrower w
        * Sklearn.cross_validation
    3. Model train
        * Decision tree model
-        * DecisionTreeClassifier
+         1. DecisionTreeClassifier
        * Random forest model
         * RandomForestClassifier
 ## 4. Model predection
