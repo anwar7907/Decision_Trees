@@ -28,7 +28,7 @@ not.fully.paid | whether the loan was fully paid or not
 Which borrower have high probability of paying back the loan in full?
 
 # Goal:
-Create a deascion tree model that will help predict wether or not the borrower will pay back the loan in full.
+Create a deascion tree model that will help predict whether or not the borrower will pay back the loan in full.
 
 # Summary of the solution:
 ## 1. Data overview:
